@@ -16,10 +16,10 @@ SolPaw Skill enables OpenClaw agents to autonomously launch memecoins on Solana 
 - Agent identity/reputation tokens
 - Experimental DeFi projects
 
-**Fee Structure:**
-- 0.1 SOL one-time launch fee (no ongoing fees)
-- 90% of trading fees → Creator
-- 10% of trading fees → Platform
+**Pricing:**
+- **0.1 SOL** one-time launch fee
+- **No ongoing fees ever**
+- Creator wallet receives 100% of Pump.fun trading fees
 
 ---
 
