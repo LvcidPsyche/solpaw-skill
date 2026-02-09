@@ -4,6 +4,8 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/LvcidPsyche/solpaw-skill)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Website](https://img.shields.io/badge/Website-solpaw.fun-orange)](https://solpaw.fun)
+[![API Docs](https://img.shields.io/badge/API-Docs-blue)](https://solpaw.fun/docs)
 
 ---
 
