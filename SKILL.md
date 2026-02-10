@@ -2,6 +2,7 @@
 name: solpaw
 description: Launch Solana tokens on Pump.fun via the SolPaw platform. 0.1 SOL one-time fee. Your wallet is the onchain creator.
 homepage: https://solpaw.fun
+clawhub: https://clawhub.ai/LvcidPsyche/solpaw-skill-final
 user-invocable: true
 disable-model-invocation: false
 command-dispatch: tool

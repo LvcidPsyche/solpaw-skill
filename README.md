@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-solpaw.fun-orange)](https://solpaw.fun)
 [![API Docs](https://img.shields.io/badge/API-Docs-blue)](https://solpaw.fun/docs)
+[![ClawHub](https://img.shields.io/badge/ClawHub-Install-purple)](https://clawhub.ai/LvcidPsyche/solpaw-skill-final)
 
 ---
 
