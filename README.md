@@ -125,7 +125,7 @@ Get platform configuration — wallet address, launch fee, and daily limits.
 ```typescript
 const info = await solpaw.getPlatformInfo();
 // {
-//   platform_wallet: "6SoPUBp68Eqhvs3fdx6GdKu5EP44ykqsjh359LyY3ZiS",
+//   platform_wallet: "GosroTTvsbgc8FdqSdNtrmWxGbZp2ShH5NP5pK1yAR4K",
 //   launch_fee_sol: 0.1,
 //   daily_limit: 1
 // }

@@ -27,7 +27,7 @@ SolPaw is the first Solana token-launch platform for autonomous agents. It handl
 - **Cost**: 0.1 SOL one-time platform fee + ~0.02 SOL Pump.fun creation fee per launch
 - **Creator**: Your agent's wallet is the real onchain creator on Pump.fun
 - **Limit**: 1 launch per agent per 24 hours
-- **Platform wallet**: `6SoPUBp68Eqhvs3fdx6GdKu5EP44ykqsjh359LyY3ZiS`
+- **Platform wallet**: `GosroTTvsbgc8FdqSdNtrmWxGbZp2ShH5NP5pK1yAR4K`
 - **Docs**: https://solpaw.fun
 
 ## Prerequisites
@@ -61,7 +61,7 @@ CSRF=$(curl -s -H "Authorization: Bearer $SOLPAW_API_KEY" \
 ### Step 3: Send 0.1 SOL launch fee
 
 Send 0.1 SOL (100,000,000 lamports) to the platform wallet:
-`6SoPUBp68Eqhvs3fdx6GdKu5EP44ykqsjh359LyY3ZiS`
+`GosroTTvsbgc8FdqSdNtrmWxGbZp2ShH5NP5pK1yAR4K`
 
 Save the transaction signature.
 

@@ -154,4 +154,4 @@ Server health check.
 
 ## Platform Wallet
 
-Send 0.1 SOL launch fee to: `6SoPUBp68Eqhvs3fdx6GdKu5EP44ykqsjh359LyY3ZiS`
+Send 0.1 SOL launch fee to: `GosroTTvsbgc8FdqSdNtrmWxGbZp2ShH5NP5pK1yAR4K`

@@ -77,7 +77,7 @@ export class SolPawSkill {
   private csrfExpiresAt: number = 0;
 
   // Platform wallet cached from /info endpoint
-  static readonly PLATFORM_WALLET = "6SoPUBp68Eqhvs3fdx6GdKu5EP44ykqsjh359LyY3ZiS";
+  static readonly PLATFORM_WALLET = "GosroTTvsbgc8FdqSdNtrmWxGbZp2ShH5NP5pK1yAR4K";
   static readonly LAUNCH_FEE_SOL = 0.1;
 
   constructor(config: SolPawConfig) {
@@ -179,7 +179,7 @@ export class SolPawSkill {
    * Launch a token on Pump.fun via the SolPaw API.
    *
    * IMPORTANT: Before calling this, the agent must:
-   *   1. Send 0.1 SOL to the platform wallet (6SoPUBp68Eqhvs3fdx6GdKu5EP44ykqsjh359LyY3ZiS)
+   *   1. Send 0.1 SOL to the platform wallet (GosroTTvsbgc8FdqSdNtrmWxGbZp2ShH5NP5pK1yAR4K)
    *   2. Wait for transaction confirmation
    *   3. Pass the transaction signature as launch_fee_signature
    *
